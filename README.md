@@ -3,9 +3,13 @@ A simple C# password manager that uses SHA256 and AES Encryption.
 
 ## Screenshots
 <p align="center">
-<img src="https://raw.githubusercontent.com/ImDavyd/Atom-Password-Manager/main/1.png">  
+<img src="https://raw.githubusercontent.com/ImDavyd/Atom-Password-Manager/main/1.png">
+</p>  
+<p align="center">
 <img src="https://raw.githubusercontent.com/ImDavyd/Atom-Password-Manager/main/2.png">  
-<img src="https://raw.githubusercontent.com/ImDavyd/Atom-Password-Manager/main/3.png">
+</p>  
+<p align="center">
+<img src="https://raw.githubusercontent.com/ImDavyd/Atom-Password-Manager/main/3.png">  
 </p>
 
 ## License
